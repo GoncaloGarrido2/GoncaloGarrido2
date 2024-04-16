@@ -35,6 +35,7 @@
 
 ### Portfólio
 [![.Net](https://img.shields.io/badge/Ver%20portfolio-5C2D91?style=for-the-badge&logo=&logoColor=white)](https://goncalogarrido2.github.io/GoncaloGarrido/)
+![image](https://github.com/GoncaloGarrido2/GoncaloGarrido2/assets/50460047/d44eac9d-e7f8-4735-a902-66a71284f3d3)
 
 
 
