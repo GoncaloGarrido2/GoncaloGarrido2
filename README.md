@@ -1,50 +1,169 @@
-<h1 align="center">Bem-vindo, eu sou o Gonçalo Garrido</h1>
-<h3 align="center">Um jovem desenvolvedor dedicado, com a missão de deixar a minha marca através da programação.<br><br>
-📫 Como entrar em contato comigo: goncalosantosgarrido@gmail.com<br><br>
-<div> <a href="https://github.com/GoncaloGarrido2" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:goncalosantosgarrido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      </h3>
-</div><h3 align="left">Linguagens e Ferramentas:</h3>
-      
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=C#)
-![R](https://img.shields.io/badge/-r-005571?style=flat-square&logo=r)
-![p5js](https://img.shields.io/badge/-p5js-E10098?style=flat-square&logo=p5js)
-![C](https://img.shields.io/badge/-C-311C87?style=flat-square&logo=C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00ccff?style=flat-square&logo=Arduino)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGoncaloGarrido2&countColor=%23263759)
-
-### Portfólio
-[![.Net](https://img.shields.io/badge/Ver%20portfolio-5C2D91?style=for-the-badge&logo=&logoColor=white)](https://goncalogarrido2.github.io/GoncaloGarrido/)
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estatísticas</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:22c55e&text=Gonçalo%20Garrido&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Backend%20%7C%20Integração%20de%20Sistemas&descAlignY=58" alt="Header" />
+</div>
 
 <div align="center">
-<a href="https://github.com/xnm-sdksdk">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GoncaloGarrido2&theme=tokyonight" alt="xnm-sdksdk" /></p>
-      <!--<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGarrido2&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />-->
-</a>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Gon%C3%A7alo+Garrido;Desenvolvedor+de+Software+do+Porto%2C+Portugal;Focado+em+backend%2C+full+stack+e+integra%C3%A7%C3%A3o+de+sistemas;Transformo+ideias+em+solu%C3%A7%C3%B5es+web%2C+mobile+e+desktop">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Gon%C3%A7alo+Garrido;Desenvolvedor+de+Software+do+Porto%2C+Portugal;Focado+em+backend%2C+full+stack+e+integra%C3%A7%C3%A3o+de+sistemas;Transformo+ideias+em+solu%C3%A7%C3%B5es+web%2C+mobile+e+desktop" alt="Typing SVG" />
+  </a>
 </div>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<div align="center">
+  <a href="https://github.com/GoncaloGarrido2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">
+    <img src="https://img.shields.io/badge/Portefólio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portefólio" />
+  </a>
+  <a href="mailto:goncalosantosgarrido@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/gon%C3%A7alo-garrido-4301a0269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/11312923/gon%c3%a7alo-garrido">
+    <img src="https://img.shields.io/badge/Stack_Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GoncaloGarrido2&label=Visualizações%20do%20perfil&color=16a34a&style=for-the-badge" alt="Contador de visualizações" />
+</div>
+
+<div align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇵🇹-0f766e?style=for-the-badge" alt="Português" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/🇬🇧-1d4ed8?style=for-the-badge" alt="English" />
+  </a>
+</div>
+
+## 🇵🇹 Português
+
+## Sobre mim
+
+Sou um desenvolvedor de software do Porto, Portugal, com experiência em aplicações web, mobile e desktop.
+Tenho trabalhado sobretudo em backend, integração de sistemas, software de negócio e desenvolvimento full stack com foco em soluções úteis e reais.
+
+Neste momento, interesso-me especialmente por:
+
+- Desenvolvimento backend
+- Produtos full stack
+- APIs e integração de sistemas
+- Automação e software empresarial
+- Projetos com impacto prático no dia a dia
+
+## Tecnologias e ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,java,kotlin,python,c,cpp,go,lua,react,nodejs,html,css,bootstrap,mysql,mongodb,docker,git,github,postman,azure,arduino,figma,unity,androidstudio,vscode,visualstudio,eclipse,linux" alt="Tecnologias" />
+</div>
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Bookly</h3>
+      <p align="center">
+        <a href="https://projetobookly.github.io/Bookly-Docs/">
+          <img src="https://raw.githubusercontent.com/GoncaloGarrido2/GoncaloGarrido/main/assets/img/ImagemProjetos/14.png" alt="Bookly" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        Sistema de organização de material e livros escolares, pensado para web, mobile e desktop.
+      </p>
+      <p align="center">
+        <a href="https://projetobookly.github.io/Bookly-Docs/">Ver projeto</a> •
+        <a href="https://github.com/ProjetoBookly/Bookly-Docs">GitHub</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">GlutenFree</h3>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en">
+          <img src="https://raw.githubusercontent.com/GoncaloGarrido2/GoncaloGarrido/main/assets/img/ImagemProjetos/8.png" alt="GlutenFree" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        Aplicação móvel para ajudar os utilizadores a identificar produtos sem glúten.
+      </p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en">Play Store</a> •
+        <a href="https://projetoslendarios.github.io/GlutenFreeApp-Docs/">Documentação</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portefólio Pessoal</h3>
+      <p align="center">
+        <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">
+          <img src="https://raw.githubusercontent.com/GoncaloGarrido2/GoncaloGarrido/main/assets/img/profile.png" alt="Portefólio" width="70%" />
+        </a>
+      </p>
+      <p align="center">
+        Espaço onde reúno projetos, experiência profissional, percurso académico e contactos.
+      </p>
+      <p align="center">
+        <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">Visitar site</a> •
+        <a href="https://github.com/GoncaloGarrido2/GoncaloGarrido">Repositório</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Outros projetos</h3>
+      <p align="center">
+        Websites, aplicações empresariais, OCR, e-commerce, mobile e software desktop.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Web-2563eb?style=for-the-badge" alt="Web" />
+        <img src="https://img.shields.io/badge/Mobile-16a34a?style=for-the-badge" alt="Mobile" />
+        <img src="https://img.shields.io/badge/Desktop-7c3aed?style=for-the-badge" alt="Desktop" />
+      </p>
+      <p align="center">
+        <a href="https://goncalogarrido2.github.io/GoncaloGarrido/portfolio.html">Explorar portefólio completo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Percurso
+
+- Desenvolvedor Full Stack na ParadigmaXis
+- Desenvolvedor de Aplicações Desktop na WorkInNet
+- Desenvolvimento de websites e aplicações web em regime freelance
+- Desenvolvimento web e mobile na Core Soluções
+
+## Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncaloGarrido2&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&title_color=22c55e&text_color=cbd5e1&icon_color=3b82f6" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GoncaloGarrido2&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=cbd5e1&dates=94a3b8" alt="Sequência de contribuições" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGarrido2&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=cbd5e1" alt="Linguagens mais usadas" />
+</div>
+
+## Vamos falar?
+
+<div align="center">
+  <a href="mailto:goncalosantosgarrido@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+  </a>
+  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">
+    <img src="https://img.shields.io/badge/Ver%20portefólio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Ver portefólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/gon%C3%A7alo-garrido-4301a0269/">
+    <img src="https://img.shields.io/badge/Ligar%20no%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:1d4ed8,100:0f172a" alt="Footer" />
+</div>
