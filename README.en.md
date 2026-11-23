@@ -68,10 +68,10 @@ Aligned with the [portfolio](https://goncalogarrido2.github.io/GoncaloGarrido/po
 
 | Project | What | Links |
 |---|---|---|
-| **Papos** | Daily word game in European Portuguese (Android + web) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.papos) · [Web](https://papos.delty.party) · [Docs](https://projetoslendarios.github.io/PaposApp-Docs/) |
-| **Focus Launcher** | Android launcher with focus modes | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.launcher) · [Docs](https://projetoslendarios.github.io/FocusLauncherApp-Docs/) |
+| **Papos** | Daily word game in European Portuguese (Android + web) | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-papos.html) · [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.papos) · [Web](https://papos.delty.party) |
+| **Focus Launcher** | Android launcher with focus modes | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-focus-launcher.html) · [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.launcher) |
 | **GlutenFree** | Gluten intolerance app, multilingual | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en) · [Docs](https://projetoslendarios.github.io/GlutenFreeApp-Docs/) |
-| **Bookly** | Stationery management (Laravel/Kotlin) — IPMAIA degree | [Docs](https://projetobookly.github.io/Bookly-Docs/) |
+| **Bookly** | Stationery management (Laravel/Kotlin) — IPMAIA degree | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-bookly.html) · [Docs](https://projetobookly.github.io/Bookly-Docs/) |
 | **PocketCards** | Cards, coupons, and QR/barcodes (Compose) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards) · [Docs](https://projetoslendarios.github.io/PocketCardsApp-Docs/) |
 
 ## Experience
