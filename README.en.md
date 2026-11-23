@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:22c55e&text=Goncalo%20Garrido&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Systems%20Integration&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:22c55e&text=Goncalo%20Garrido&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20developer%20—%20backend%2C%20mobile%20and%20systems%20integration%20·%20Porto&descAlignY=58" alt="Header" />
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Goncalo+Garrido;Software+Developer+from+Porto%2C+Portugal;Focused+on+backend%2C+full+stack%2C+and+systems+integration;I+build+web%2C+mobile%2C+and+desktop+solutions">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Goncalo+Garrido;Software+Developer+from+Porto%2C+Portugal;Focused+on+backend%2C+full+stack%2C+and+systems+integration;I+build+web%2C+mobile%2C+and+desktop+solutions" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Goncalo+Garrido;Software+developer+—+backend%2C+mobile+and+systems+integration;Porto%2C+Portugal;C%23+%C2%B7+Kotlin+%C2%B7+SQL+%C2%B7+Android">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Goncalo+Garrido;Software+developer+—+backend%2C+mobile+and+systems+integration;Porto%2C+Portugal;C%23+%C2%B7+Kotlin+%C2%B7+SQL+%C2%B7+Android" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,25 +41,20 @@
 
 ## About me
 
-I am a software developer from Porto, Portugal, with experience in web, mobile, and desktop applications.
-My work has been mainly focused on backend development, systems integration, business software, and full stack solutions with practical real-world value.
+I am a software developer in Porto — backend, mobile, and systems integration.
+I currently work at **WorkInNet** on the **InspGest** ecosystem (vehicle inspection), using C#, VB.NET, Kotlin, and SQL. I also publish Android apps on the Play Store.
 
-Right now, I am especially interested in:
+Right now I am especially interested in:
 
-- Backend development
-- Full stack products
-- APIs and systems integration
-- Automation and business software
-- Practical projects with real impact
+- Backend and APIs
+- Android apps
+- Systems integration and business software
+- Practical projects with real-world impact
 
 ## Technologies and tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,java,kotlin,python,c,cpp,go,lua,react,nodejs,html,css,bootstrap,mysql,mongodb,docker,git,github,postman,azure,arduino,figma,unity,androidstudio,vscode,visualstudio,eclipse,linux" alt="Technologies" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,blazor" alt="Extra technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,java,kotlin,python,c,cpp,go,lua,react,nodejs,html,css,bootstrap,mysql,mongodb,docker,git,github,postman,azure,arduino,figma,unity,androidstudio,vscode,visualstudio,eclipse,linux,wordpress,blazor" alt="Technologies" />
 </div>
 
 ## Featured projects
@@ -67,78 +62,64 @@ Right now, I am especially interested in:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Bookly</h3>
+      <h3 align="center">Papos</h3>
       <p align="center">
-        <a href="https://projetobookly.github.io/Bookly-Docs/">
-          <img src="https://raw.githubusercontent.com/GoncaloGarrido2/GoncaloGarrido/main/assets/img/ImagemProjetos/14.png" alt="Bookly" width="100%" />
-        </a>
+        Daily word game in European Portuguese (Android + web), with five modes and offline play.
       </p>
       <p align="center">
-        School material and book management system built for web, mobile, and desktop.
-      </p>
-      <p align="center">
-        <a href="https://projetobookly.github.io/Bookly-Docs/">View project</a> •
-        <a href="https://github.com/ProjetoBookly/Bookly-Docs">GitHub</a>
+        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.papos">Play Store</a> ·
+        <a href="https://papos.delty.party">Web</a> ·
+        <a href="https://projetoslendarios.github.io/PaposApp-Docs/">Docs</a>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">Focus Launcher</h3>
+      <p align="center">
+        Minimalist Android launcher with focus modes and configurable screens.
+      </p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.launcher">Play Store</a> ·
+        <a href="https://projetoslendarios.github.io/FocusLauncherApp-Docs/">Docs</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">GlutenFree</h3>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en">
-          <img src="https://raw.githubusercontent.com/GoncaloGarrido2/GoncaloGarrido/main/assets/img/ImagemProjetos/8.png" alt="GlutenFree" width="100%" />
-        </a>
+        App for gluten intolerance — venue map, multilingual, on the Play Store.
       </p>
       <p align="center">
-        Mobile application that helps users identify gluten-free products.
+        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en">Play Store</a> ·
+        <a href="https://projetoslendarios.github.io/GlutenFreeApp-Docs/">Docs</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Bookly</h3>
+      <p align="center">
+        Stationery shop management (web + Android) — IPMAIA degree project.
       </p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en">Play Store</a> •
-        <a href="https://projetoslendarios.github.io/GlutenFreeApp-Docs/">Documentation</a>
+        <a href="https://projetobookly.github.io/Bookly-Docs/">Docs</a> ·
+        <a href="https://github.com/ProjetoBookly/Bookly-Docs">GitHub</a>
       </p>
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Personal Portfolio</h3>
-      <p align="center">
-        <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">
-          <img src="https://raw.githubusercontent.com/GoncaloGarrido2/GoncaloGarrido/main/assets/img/profile.png" alt="Portfolio" width="70%" />
-        </a>
-      </p>
-      <p align="center">
-        A space where I showcase projects, professional experience, academic background, and contact details.
-      </p>
-      <p align="center">
-        <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">Visit website</a> •
-        <a href="https://github.com/GoncaloGarrido2/GoncaloGarrido">Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Other projects</h3>
-      <p align="center">
-        Websites, business applications, OCR, e-commerce, mobile apps, and desktop software.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Web-2563eb?style=for-the-badge" alt="Web" />
-        <img src="https://img.shields.io/badge/Mobile-16a34a?style=for-the-badge" alt="Mobile" />
-        <img src="https://img.shields.io/badge/Desktop-7c3aed?style=for-the-badge" alt="Desktop" />
-      </p>
-      <p align="center">
-        <a href="https://goncalogarrido2.github.io/GoncaloGarrido/portfolio.html">Explore full portfolio</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Also: <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards">PocketCards</a> ·
+  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/portfolio.html">Full portfolio</a> ·
+  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/assets/files/Goncalo-Garrido-CV.pdf">CV (PDF)</a>
+</p>
 
 ## Experience
 
-- Full Stack Developer at ParadigmaXis
-- Desktop Application Developer at WorkInNet
-- Freelance website and web application development
-- Web and mobile development at Core Soluções
+- **Software Developer** at WorkInNet (InspGest) — August 2025 – present
+- Full Stack Developer at ParadigmaXis — March 2025 – August 2025
+- Desktop Application Developer at WorkInNet — March 2024 – June 2024
+- Freelance website development — February 2023 – June 2024
+- Web and mobile development at Core Soluções — September 2022 – August 2023
 
 ## GitHub stats
 
