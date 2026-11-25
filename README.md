@@ -75,7 +75,7 @@ Alinhados com o [portefólio](https://goncalogarrido2.github.io/GoncaloGarrido/p
 | **GlutenFree** | App para intolerância ao glúten, multilíngue | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=pt) · [Docs](https://projetoslendarios.github.io/GlutenFreeApp-Docs/) |
 | **Bookly** | Gestão para papelarias (Laravel/Kotlin) — licenciatura IPMAIA | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-bookly.html) · [Docs](https://projetobookly.github.io/Bookly-Docs/) |
 | **PocketCards** | Cartões, cupões e QR/códigos de barras (Compose) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards) · [Docs](https://projetoslendarios.github.io/PocketCardsApp-Docs/) |
-| **Delty WebSites** | Marca própria: websites PME (Next.js + Cloudflare) | [delty.party](https://delty.party/) · case [2S Restaurante](https://2srestaurante.com/) |
+| **Delty WebSites** | Marca própria: websites PME (Next.js + Cloudflare) | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-delty.html) · [delty.party](https://delty.party/) · [2S](https://2srestaurante.com/) |
 
 ### Clientes Delty / Bookly (sites vivos)
 
