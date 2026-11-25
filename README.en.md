@@ -15,6 +15,9 @@
   <a href="https://goncalogarrido2.github.io/GoncaloGarrido/">
     <img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/assets/files/Goncalo-Garrido-CV.pdf">
+    <img src="https://img.shields.io/badge/CV%20PDF-1d4ed8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF" />
+  </a>
   <a href="mailto:goncalosantosgarrido@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -41,79 +44,39 @@
 
 ## About me
 
-I am a software developer in Porto — backend, mobile, and systems integration.
+I am a software developer in Porto — **backend, mobile, and systems integration**.
 I currently work at **WorkInNet** on the **InspGest** ecosystem (vehicle inspection), using C#, VB.NET, Kotlin, and SQL. I also publish Android apps on the Play Store.
 
-Right now I am especially interested in:
+## Core stacks
 
-- Backend and APIs
-- Android apps
-- Systems integration and business software
-- Practical projects with real-world impact
+| Stack | Use |
+|---|---|
+| **C# / .NET** (+ VB.NET) | Backend, desktop, and InspGest integrations |
+| **Kotlin / Android** | Play Store apps and mobile business clients |
+| **SQL Server** | Data and migrations in business software |
+| **Node.js** | APIs and systems integration |
 
-## Technologies and tools
+Also used (secondary): JavaScript/TypeScript, PHP/Laravel, Java, MySQL/MongoDB, Python, WordPress, Blazor/React, Xamarin/MAUI.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,php,java,kotlin,python,c,cpp,go,lua,react,nodejs,html,css,bootstrap,mysql,mongodb,docker,git,github,postman,azure,arduino,figma,unity,androidstudio,vscode,visualstudio,eclipse,linux,wordpress,blazor" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,androidstudio,nodejs,javascript,php,mysql" alt="Core stacks" />
 </div>
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Papos</h3>
-      <p align="center">
-        Daily word game in European Portuguese (Android + web), with five modes and offline play.
-      </p>
-      <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.papos">Play Store</a> ·
-        <a href="https://papos.delty.party">Web</a> ·
-        <a href="https://projetoslendarios.github.io/PaposApp-Docs/">Docs</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Focus Launcher</h3>
-      <p align="center">
-        Minimalist Android launcher with focus modes and configurable screens.
-      </p>
-      <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.launcher">Play Store</a> ·
-        <a href="https://projetoslendarios.github.io/FocusLauncherApp-Docs/">Docs</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">GlutenFree</h3>
-      <p align="center">
-        App for gluten intolerance — venue map, multilingual, on the Play Store.
-      </p>
-      <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en">Play Store</a> ·
-        <a href="https://projetoslendarios.github.io/GlutenFreeApp-Docs/">Docs</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Bookly</h3>
-      <p align="center">
-        Stationery shop management (web + Android) — IPMAIA degree project.
-      </p>
-      <p align="center">
-        <a href="https://projetobookly.github.io/Bookly-Docs/">Docs</a> ·
-        <a href="https://github.com/ProjetoBookly/Bookly-Docs">GitHub</a>
-      </p>
-    </td>
-  </tr>
-</table>
+Aligned with the [portfolio](https://goncalogarrido2.github.io/GoncaloGarrido/portfolio.html):
 
-<p align="center">
-  Also: <a href="https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards">PocketCards</a> ·
-  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/portfolio.html">Full portfolio</a> ·
-  <a href="https://goncalogarrido2.github.io/GoncaloGarrido/assets/files/Goncalo-Garrido-CV.pdf">CV (PDF)</a>
-</p>
+| Project | What | Links |
+|---|---|---|
+| **Papos** | Daily word game in European Portuguese (Android + web) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.papos) · [Web](https://papos.delty.party) · [Docs](https://projetoslendarios.github.io/PaposApp-Docs/) |
+| **Focus Launcher** | Android launcher with focus modes | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.launcher) · [Docs](https://projetoslendarios.github.io/FocusLauncherApp-Docs/) |
+| **GlutenFree** | Gluten intolerance app, multilingual | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en) · [Docs](https://projetoslendarios.github.io/GlutenFreeApp-Docs/) |
+| **Bookly** | Stationery management (Laravel/Kotlin) — IPMAIA degree | [Docs](https://projetobookly.github.io/Bookly-Docs/) |
+| **PocketCards** | Cards, coupons, and QR/barcodes (Compose) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards) · [Docs](https://projetoslendarios.github.io/PocketCardsApp-Docs/) |
 
 ## Experience
+
+Newest first, aligned with the [resume](https://goncalogarrido2.github.io/GoncaloGarrido/resume.html):
 
 - **Software Developer** at WorkInNet (InspGest) — August 2025 – present
 - Full Stack Developer at ParadigmaXis — March 2025 – August 2025
@@ -132,7 +95,7 @@ Right now I am especially interested in:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloGarrido2&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=cbd5e1" alt="Most used languages" />
 </div>
 
-## Let's connect
+## Contact
 
 <div align="center">
   <a href="mailto:goncalosantosgarrido@gmail.com">
