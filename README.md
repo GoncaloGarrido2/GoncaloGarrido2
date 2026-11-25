@@ -75,6 +75,20 @@ Alinhados com o [portefólio](https://goncalogarrido2.github.io/GoncaloGarrido/p
 | **GlutenFree** | App para intolerância ao glúten, multilíngue | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=pt) · [Docs](https://projetoslendarios.github.io/GlutenFreeApp-Docs/) |
 | **Bookly** | Gestão para papelarias (Laravel/Kotlin) — licenciatura IPMAIA | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-bookly.html) · [Docs](https://projetobookly.github.io/Bookly-Docs/) |
 | **PocketCards** | Cartões, cupões e QR/códigos de barras (Compose) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards) · [Docs](https://projetoslendarios.github.io/PocketCardsApp-Docs/) |
+| **Delty WebSites** | Marca própria: websites PME (Next.js + Cloudflare) | [delty.party](https://delty.party/) · case [2S Restaurante](https://2srestaurante.com/) |
+
+### Clientes Delty / Bookly (sites vivos)
+
+| Cliente | Links |
+|---|---|
+| 504 Automóveis | [504automoveis.delty.party](https://504automoveis.delty.party/) |
+| Navalha Negra | [navalhanegra.bookly.party](https://navalhanegra.bookly.party/) |
+| Smile Papelaria | [smile.bookly.party](https://smile.bookly.party/) |
+| São Tomé Turismo | [saotome.delty.party](https://saotome.delty.party/) |
+| Carpintaria CP | [carpintariacp.delty.party](https://carpintariacp.delty.party/) |
+| 4 Em Linha (web app) | [4emlinha.delty.party](https://4emlinha.delty.party/) |
+
+> `bookly.party` = hosting de clientes; **Bookly (IPMAIA)** acima = projeto académico Laravel/Kotlin (não confundir).
 
 ## Percurso
 
@@ -83,7 +97,7 @@ Ordem cronológica (mais recente primeiro), alinhada com o [currículo](https://
 - **Desenvolvedor de Software** na WorkInNet (InspGest) — agosto 2025 – presente
 - Desenvolvedor Full Stack na ParadigmaXis — março 2025 – agosto 2025
 - Desenvolvedor de Aplicações Desktop na WorkInNet — março 2024 – junho 2024
-- Desenvolvimento de websites (freelance) — fevereiro 2023 – junho 2024
+- **Delty WebSites** (conta própria) — fevereiro 2023 – presente
 - Desenvolvimento web e mobile na Core Soluções — setembro 2022 – agosto 2023
 
 ## Estatísticas GitHub

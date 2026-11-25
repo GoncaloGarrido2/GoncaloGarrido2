@@ -73,6 +73,20 @@ Aligned with the [portfolio](https://goncalogarrido2.github.io/GoncaloGarrido/po
 | **GlutenFree** | Gluten intolerance app, multilingual | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.glutenfree&hl=en) · [Docs](https://projetoslendarios.github.io/GlutenFreeApp-Docs/) |
 | **Bookly** | Stationery management (Laravel/Kotlin) — IPMAIA degree | [Case](https://goncalogarrido2.github.io/GoncaloGarrido/case-bookly.html) · [Docs](https://projetobookly.github.io/Bookly-Docs/) |
 | **PocketCards** | Cards, coupons, and QR/barcodes (Compose) | [Play Store](https://play.google.com/store/apps/details?id=com.goncalogarrido.pocketcards) · [Docs](https://projetoslendarios.github.io/PocketCardsApp-Docs/) |
+| **Delty WebSites** | Own brand: SME websites (Next.js + Cloudflare) | [delty.party](https://delty.party/) · case [2S Restaurant](https://2srestaurante.com/) |
+
+### Delty / Bookly clients (live sites)
+
+| Client | Links |
+|---|---|
+| 504 Automóveis | [504automoveis.delty.party](https://504automoveis.delty.party/) |
+| Navalha Negra | [navalhanegra.bookly.party](https://navalhanegra.bookly.party/) |
+| Smile Papelaria | [smile.bookly.party](https://smile.bookly.party/) |
+| São Tomé Turismo | [saotome.delty.party](https://saotome.delty.party/) |
+| Carpintaria CP | [carpintariacp.delty.party](https://carpintariacp.delty.party/) |
+| 4 Em Linha (web app) | [4emlinha.delty.party](https://4emlinha.delty.party/) |
+
+> `bookly.party` = client hosting; **Bookly (IPMAIA)** above = academic Laravel/Kotlin project (do not confuse).
 
 ## Experience
 
@@ -81,7 +95,7 @@ Newest first, aligned with the [resume](https://goncalogarrido2.github.io/Goncal
 - **Software Developer** at WorkInNet (InspGest) — August 2025 – present
 - Full Stack Developer at ParadigmaXis — March 2025 – August 2025
 - Desktop Application Developer at WorkInNet — March 2024 – June 2024
-- Freelance website development — February 2023 – June 2024
+- **Delty WebSites** (self-employed) — February 2023 – present
 - Web and mobile development at Core Soluções — September 2022 – August 2023
 
 ## GitHub stats
